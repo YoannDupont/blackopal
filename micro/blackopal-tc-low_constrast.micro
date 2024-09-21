@@ -1,0 +1,38 @@
+color-link default "#E8E8E8,#282828"
+color-link hlsearch "#000000,#FFFF00"
+
+color-link comment "#000080"
+
+color-link constant "#800000"
+color-link constant.string "#E0F000"
+color-link constant.number "#FF8000"
+
+color-link identifier "#008080"
+color-link statement "#AC5500"
+color-link symbol "#00FFFF"
+color-link preproc "#800080"
+color-link special "#800080"
+color-link ignore "default"
+color-link error ",#FF0000"
+color-link todo "bold #FFFF00,#000080"
+color-link indent-char "#000000"
+
+color-link line-number "#A0A0A0,#282828"
+color-link current-line-number "#FFFF00"
+
+color-link diff-added "#008000"
+color-link diff-modified "#FFFF00"
+color-link diff-deleted "#800000"
+
+color-link gutter-error ",#800000"
+color-link gutter-warning "#800000"
+
+color-link cursor-line "#343434"
+color-link color-column "#C0C0C0"
+
+color-link type "#800080"
+color-link type.extended "#800080"
+
+color-link symbol.brackets "#008000"
+
+color-link preproc.shebang "comment"
